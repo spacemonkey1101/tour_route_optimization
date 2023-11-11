@@ -33,4 +33,4 @@ The application will display all the best routes in a tabular format, along with
 Contributions are welcome. Please submit a pull request or create an issue to discuss the changes before proceeding.
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) License. 
