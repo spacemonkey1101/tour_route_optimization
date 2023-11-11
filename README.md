@@ -1,6 +1,6 @@
 # Multi-Objective Intra-City Route Optimization For Tourists
 ## Description
-This project is aimed at developing an application that generates itineraries for tourists based on their preferences. It uses a multi-objective optimization algorithm to recommend the most suitable tour route for the user, focusing on the aspects of minimizing travel distance and time, and maximizing the number of spots visited and visit time at each spot.(read full dissertaion at [link](https://docs.google.com/document/d/1iBK5igbFfCMpV4BC89PyS2R172MIKTlsXM5vn_3t9zM/edit?usp=sharing)
+This project is aimed at developing an application that generates itineraries for tourists based on their preferences. It uses a multi-objective optimization algorithm to recommend the most suitable tour route for the user, focusing on the aspects of minimizing travel distance and time, and maximizing the number of spots visited and visit time at each spot.read full dissertation at [link](https://docs.google.com/document/d/1iBK5igbFfCMpV4BC89PyS2R172MIKTlsXM5vn_3t9zM/edit?usp=sharing)
 
 ### Installation
 This project is written in Python. Make sure you have Python installed on your system, you can download it from here Python.
